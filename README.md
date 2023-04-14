@@ -2,7 +2,7 @@
 This repository contains answers to all the Leetcode questions I've solved!
 
 ## Here's is my Profile Link:🔗 [Mian Awais](https://leetcode.com/mianawais/)
-
+<!---
 <div align="right">
 
 | Problem Category | Count |
@@ -11,7 +11,7 @@ This repository contains answers to all the Leetcode questions I've solved!
 |---- |----------|------------|-------------|------|
 
 </div>
-
+--->
 
 <div align="left">
 
@@ -29,3 +29,4 @@ This repository contains answers to all the Leetcode questions I've solved!
 |---| ----- | ---------------- | -------- | ---- |
 | No. | Problems | Difficulty | Source Code | Tags |
 |---- |----------|------------|-------------|------|
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/) | Array, Two Pointers |
