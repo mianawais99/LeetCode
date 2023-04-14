@@ -29,4 +29,4 @@ This repository contains answers to all the Leetcode questions I've solved!
 |---| ----- | ---------------- | -------- | ---- |
 | No. | Problems | Difficulty | Source Code | Tags |
 |---- |----------|------------|-------------|------|
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/) | Array, Two Pointers |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/TwoSum.java) | Array, Two Pointers |
