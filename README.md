@@ -30,5 +30,5 @@ This repository contains answers to all the Leetcode questions I've solved!
 | No. | Problems | Difficulty | Source Code | Tags |
 |---- |----------|------------|-------------|------|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/TwoSum.java) | Array, Two Pointers |
-| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/FindPivotIndex.java) | Array, Two Pointers |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/RunningSumOf1dArray.java) | Array, Two Pointers |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/FindPivotIndex.java) | Will add Later |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/RunningSumOf1dArray.java) | Will add Later |
