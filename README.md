@@ -31,6 +31,7 @@ This repository contains answers to all the Leetcode questions I've solved!
 |---- |----------|------------|-------------|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/TwoSum.java) |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/MergeTwoSortedLists.java) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [Java](https://github.com/mianawais99/LeetCode/blob/master/Medium/BinaryTreeLevelOrderTraversal.java) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/BestTimetoBuyandSellStock.java) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | [Java](https://github.com/mianawais99/LeetCode/blob/master/Medium/LinkedListCycleII.java) | 
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/IsomorphicStrings.java) |
