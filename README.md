@@ -30,8 +30,9 @@ This repository contains answers to all the Leetcode questions I've solved!
 | No. | Problems | Difficulty | Source Code | 
 |---- |----------|------------|-------------|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/TwoSum.java) |
-| 021 | [Two Sum](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/MergeTwoSortedLists.java) | 
+| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/MergeTwoSortedLists.java) | 
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/IsomorphicStrings.java) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/IsomorphicStrings.java) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/IsSubsequence.java) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/FindPivotIndex.java) | 
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/RunningSumOf1dArray.java) | 
