@@ -1,4 +1,4 @@
-<h1 align="center"> LeetCode Solutions JAVA </h1>
+<h1 align="center"> LeetCode Solutions </h1>
 This repository contains answers to all the Leetcode questions I've solved!
 
 ## Here's is my Profile Link:🔗 [Mian Awais](https://leetcode.com/mianawais/)
