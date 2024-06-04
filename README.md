@@ -39,6 +39,7 @@ This repository contains answers to all the Leetcode questions I've solved!
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | [Java](https://github.com/mianawais99/LeetCode/blob/master/Medium/LinkedListCycleII.java) | 
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/IsomorphicStrings.java) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/ReverseLinkedList.java) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/ReverseString.cs) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/IsSubsequence.java) |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/LongestPalindrome.java) |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/N-aryTreePreorderTraversal.java) |
