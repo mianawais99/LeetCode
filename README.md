@@ -43,6 +43,7 @@ This repository contains answers to all the Leetcode questions I've solved!
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/IsSubsequence.java) |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/LongestPalindrome.cs) |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/N-aryTreePreorderTraversal.java) |
+| 648 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/ReplaceWords.cs) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/FindPivotIndex.java) |
 | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/HandofStraights.cs) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/MiddleoftheLinkedList.java) | 
