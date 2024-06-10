@@ -48,6 +48,7 @@ This repository contains answers to all the Leetcode questions I've solved!
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/FindPivotIndex.cs) |
 | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/HandofStraights.cs) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/MiddleoftheLinkedList.java) |
+| 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/SubarraySumsDivisiblebyK.cs) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/HeightChecker.cs) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/RunningSumOf1dArray.java) |
 | 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/AppendCharacterstoStringtoMakeSubsequence.cs) |
