@@ -56,4 +56,5 @@ This repository contains answers to all the Leetcode questions I've solved!
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/RelativeSortArray.cs) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/RunningSumOf1dArray.java) |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/MinimumNumberofMovestoSeatEveryone.cs) |
+| 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/SortthePeople.cs) |
 | 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/AppendCharacterstoStringtoMakeSubsequence.cs) |
