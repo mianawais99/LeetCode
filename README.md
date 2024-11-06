@@ -4,7 +4,6 @@ This repository contains answers to all the Leetcode questions I've solved!
 ## Here's is my Profile Link:🔗 [Mian Awais](https://leetcode.com/mianawais/)
 <!---
 <div align="right">
-Added Comment
 | Problem Category | Count |
 | ---------------- | -------- |
 | No. | Problems | Difficulty | Source Code | Tags |
@@ -58,3 +57,4 @@ Added Comment
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/MinimumNumberofMovestoSeatEveryone.cs) |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/SortthePeople.cs) |
 | 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/AppendCharacterstoStringtoMakeSubsequence.cs) |
+| 3011 | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/FindifArrayCanBeSorted.cs) |
