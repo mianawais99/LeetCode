@@ -63,4 +63,5 @@ This repository contains answers to all the Leetcode questions I've solved!
 | 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/AppendCharacterstoStringtoMakeSubsequence.cs) |
 | 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/HouseRobberIV.cs) |
 | 3011 | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/FindifArrayCanBeSorted.cs) |
+| 3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/WaterBottlesII.cs) |
 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/FindthePowerofK-SizeSubarraysI.cs) |
