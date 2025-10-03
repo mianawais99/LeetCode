@@ -41,7 +41,7 @@ This repository contains answers to all the Leetcode questions I've solved!
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/ReverseLinkedList.java) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/ReverseString.cs) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/IsSubsequence.java) |
-| 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Hard/TrappingRainWater II.cs) |
+| 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Hard/TrappingRainWaterII.cs) |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/LongestPalindrome.cs) |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/ContinuousSubarraySum.cs) |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/N-aryTreePreorderTraversal.java) |
