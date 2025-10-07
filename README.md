@@ -57,6 +57,7 @@ This repository contains answers to all the Leetcode questions I've solved!
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/HeightChecker.cs) |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/RelativeSortArray.cs) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/RunningSumOf1dArray.java) |
+| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/AvoidFloodinTheCity.cs) |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/WaterBottles.cs) |
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/ShortestSubarraytobeRemovedtoMakeArraySorted.cs) |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/MinimumNumberofMovestoSeatEveryone.cs) |
