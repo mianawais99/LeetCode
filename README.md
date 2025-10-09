@@ -68,3 +68,4 @@ This repository contains answers to all the Leetcode questions I've solved!
 | 3011 | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/FindifArrayCanBeSorted.cs) |
 | 3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/WaterBottlesII.cs) |
 | 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/FindthePowerofK-SizeSubarraysI.cs) |
+| 3494 | [Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/FindtheMinimumAmountofTimetoBrewPotions.cs) |
