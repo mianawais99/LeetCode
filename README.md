@@ -52,6 +52,7 @@ This repository contains answers to all the Leetcode questions I've solved!
 | 862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Hard/ShortestSubarraywithSumatLeastK.cs) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Java](https://github.com/mianawais99/LeetCode/blob/master/Easy/MiddleoftheLinkedList.java) |
 | 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/MinimumIncrementtoMakeArrayUnique.cs) |
+| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/N-RepeatedElementinSize2NArray.cs) |
 | 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | Medium | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Medium/SubarraySumsDivisiblebyK.cs) |
 | 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips) | Hard | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Hard/MinimumNumberofKConsecutiveBitFlips.cs) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | [C#](https://github.com/mianawais99/LeetCode/blob/C%23/Easy/HeightChecker.cs) |
